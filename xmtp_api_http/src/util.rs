@@ -1,4 +1,4 @@
-use crate::http_stream::SubscriptionItem;
+use crate::stream::SubscriptionItem;
 use crate::ErrorResponse;
 use crate::HttpClientError;
 use prost::Message;
